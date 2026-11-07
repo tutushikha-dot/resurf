@@ -1,0 +1,10 @@
+{
+  "version": "2.15.0",
+  "build": 143,
+  "url": "https://resurf-native.s3.us-east-1.amazonaws.com/downloads/Resurf-2.15.0-143.zip",
+  "installerUrl": "https://resurf-native.s3.us-east-1.amazonaws.com/downloads/Resurf-2.15.0-143.dmg",
+  "installerSize": 84727326,
+  "minimumSystemVersion": "14.3",
+  "pubDate": "Thu, 05 Nov 2026 13:17:15 +0000",
+  "size": 108997800
+}
